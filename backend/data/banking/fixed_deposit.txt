@@ -1,0 +1,24 @@
+Understanding Fixed Deposits (FD)
+
+A Fixed Deposit (FD), also known as a term deposit or time deposit, is a financial instrument provided by banks and non-banking financial companies (NBFCs) that offers a higher rate of interest than a regular savings account, until the given maturity date. It requires the investor to deposit a lump sum amount for a fixed predetermined period, which can range from a few days to several years. In return, the institution guarantees a fixed interest rate for the duration of the term.
+
+Key Features of a Fixed Deposit:
+1. Fixed Term and Interest Rate: The core characteristic of an FD is the fixed tenure (e.g., 6 months, 1 year, 5 years) and the fixed interest rate locked in at the time of opening the account. This insulates the investment from market fluctuations.
+2. Lump Sum Investment: An FD requires a single, lump-sum deposit. Unlike a recurring deposit, you cannot make regular, smaller contributions to a single FD account once it is opened.
+3. Guaranteed Returns: Since the interest rate is fixed, the returns are guaranteed and predictable. At maturity, the investor receives the initial principal amount along with the accumulated interest.
+4. Higher Interest Rates: FDs generally offer significantly higher interest rates compared to savings accounts, compensating the investor for locking away their funds for a specified period.
+5. Premature Withdrawal Penalty: While liquidity is lower than a savings account, funds can usually be withdrawn before maturity in emergencies. However, banks typically charge a penalty fee and offer a lower interest rate for premature withdrawals.
+
+Benefits of a Fixed Deposit:
+- Capital Protection: FDs are considered one of the safest investment options. The principal amount is secure and is not subject to market risks, making it ideal for conservative investors.
+- Predictable Income: The assured returns make it easier for individuals, especially retirees, to plan their finances and rely on a steady income stream if they choose periodic interest payouts.
+- Loan Against FD: Many banks offer the facility to take a loan or an overdraft against the FD, usually up to 80-90% of the deposit value. This provides liquidity without needing to break the FD.
+- Tax Savings: In many jurisdictions, specific types of FDs (like 5-year tax-saving FDs in India) offer tax deduction benefits under the prevailing tax laws.
+
+Example:
+Consider an individual, Michael, who receives an annual bonus of $10,000. He wants to save this money for his daughter's college education, which is five years away. He decides to invest the entire amount in a 5-year Fixed Deposit that offers an annual interest rate of 6%. He is assured that at the end of the five years, his principal is safe, and he will receive a guaranteed return, regardless of how the stock market or broader economy performs during that period.
+
+Key Concepts:
+- Maturity Date: The specific date on which the term of the fixed deposit ends and the principal plus interest becomes payable to the investor.
+- Cumulative vs. Non-Cumulative FD: In a cumulative FD, the interest is reinvested and paid at maturity, harnessing the power of compounding. In a non-cumulative FD, interest is paid out periodically (monthly, quarterly, annually) to provide regular income.
+- Compounding Frequency: The frequency with which interest is added to the principal balance, which can affect the overall yield of the fixed deposit.

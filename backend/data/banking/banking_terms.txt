@@ -1,0 +1,34 @@
+Understanding Banking Terms
+
+Navigating the financial world requires an understanding of specific terminology used by banks and financial institutions. "Banking terms" refer to the specialized vocabulary that describes banking products, services, transactions, and regulatory concepts. A strong grasp of these terms is essential for individuals and businesses to make informed financial decisions, understand the terms of their accounts or loans, and communicate effectively with financial professionals.
+
+Key Banking Concepts and Terms:
+1. Principal and Interest:
+   - Principal: The original sum of money borrowed in a loan or put into an investment, separate from the interest.
+   - Interest: The cost of borrowing money (paid by a borrower to a lender) or the return earned on an investment/deposit (paid by a bank to an account holder), usually expressed as an Annual Percentage Rate (APR).
+2. Routing Number and Account Number:
+   - Routing Number: A specific multi-digit code that identifies the specific financial institution and branch where an account is held, used primarily for wire transfers and direct deposits.
+   - Account Number: A unique numerical identifier assigned to a specific account (like a savings or checking account) belonging to a specific customer.
+3. Overdraft and Insufficient Funds:
+   - Overdraft: A facility allowing an account holder to withdraw more money than the available balance in their account, essentially acting as a short-term loan.
+   - Non-Sufficient Funds (NSF): A situation where a transaction (like a check or debit) is presented, but the account does not hold enough money to cover it, often resulting in a bounced transaction and penalty fees.
+4. Collateral and Credit Score:
+   - Collateral: An asset (such as a house, car, or fixed deposit) that a borrower offers to a lender to secure a loan. If the borrower defaults, the lender can seize the collateral.
+   - Credit Score: A numerical representation of an individual's creditworthiness, based on their history of borrowing and repayment. It heavily influences loan approvals and interest rates.
+5. Liquidity and Amortization:
+   - Liquidity: The ease with which an asset can be converted into ready cash without affecting its market price. Cash in a savings account is highly liquid; real estate is not.
+   - Amortization: The process of paying off a debt (like a mortgage) over time through regular, equal payments that cover both principal and interest.
+
+Benefits of Understanding Banking Terms:
+- Informed Decision Making: Knowing the difference between compound and simple interest, or fixed and variable rates, allows consumers to choose the best financial products for their needs.
+- Avoiding Fees: Understanding terms like "minimum average balance" and "overdraft limit" helps individuals manage their accounts correctly and avoid unexpected penalty charges.
+- Effective Communication: It enables clear and effective communication with bank representatives, ensuring that customer needs are met and complex financial arrangements are fully understood.
+- Financial Literacy: Grasping these concepts is a fundamental pillar of overall financial literacy, empowering individuals to take control of their economic well-being.
+
+Example:
+When Maria went to apply for a mortgage, the loan officer explained that she would receive a loan for a "Principal" amount of $300,000. She was offered a "Fixed Interest Rate," meaning her payments wouldn't change. Because her "Credit Score" was excellent, she received a favorable rate. The loan officer provided an "Amortization" schedule, showing exactly how much of her monthly payment would go toward interest versus paying down the principal over 30 years. Because Maria understood these banking terms, she felt confident signing the loan documents.
+
+Key Concepts:
+- Annual Percentage Yield (APY): The real rate of return earned on a savings deposit or investment taking into account the effect of compounding interest.
+- Wire Transfer: An electronic transfer of funds across a network administered by hundreds of banks around the world, typically used for large or urgent domestic or international payments.
+- Routing Transit Number (RTN): The specific term used in the United States to identify a financial institution in a transaction.

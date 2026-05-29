@@ -1,0 +1,24 @@
+Understanding Know Your Customer (KYC)
+
+Know Your Customer (KYC) is a mandatory, standardized process used by banks, financial institutions, and other regulated entities to verify the identity, address, and financial profile of their clients. The primary objective of KYC is to prevent financial crimes, such as money laundering, terrorist financing, fraud, and identity theft. By establishing a clear understanding of who their customers are, institutions can better manage risk and comply with legal and regulatory requirements.
+
+Key Features of the KYC Process:
+1. Identity Verification: The core of KYC is confirming that the customer is who they claim to be. This requires the submission of valid, government-issued identification documents, such as a passport, driver's license, national ID card, or PAN card.
+2. Address Verification: Institutions must also verify the customer's current residential or business address. Acceptable documents typically include recent utility bills (electricity, water, gas), bank statements, or rental agreements.
+3. Customer Profiling: Beyond simple identity, KYC involves understanding the nature of the customer's activities. This includes identifying their occupation, source of funds, and expected transaction volumes and patterns.
+4. Ongoing Monitoring: KYC is not a one-time event. Financial institutions are required to continuously monitor customer accounts for unusual or suspicious transactions that deviate from their established profile and update KYC records periodically.
+5. Risk Categorization: Based on the collected information, banks categorize customers into different risk tiers (e.g., low, medium, high). High-risk customers, such as Politically Exposed Persons (PEPs), are subject to Enhanced Due Diligence (EDD).
+
+Benefits of KYC:
+- Fraud Prevention: By verifying identities rigorously, KYC significantly reduces the risk of identity theft and financial fraud, protecting both the institution and its legitimate customers.
+- Regulatory Compliance: Adhering to KYC norms ensures that financial institutions comply with national and international anti-money laundering (AML) laws, avoiding severe regulatory fines and reputational damage.
+- Systemic Stability: A robust KYC framework across the financial sector helps maintain the integrity and stability of the entire financial system by keeping illicit funds out.
+- Trust and Security: For customers, knowing that their bank employs stringent security and verification measures builds trust and provides assurance that their assets are safeguarded.
+
+Example:
+When John visits a bank to open a new savings account, he cannot simply deposit money and start transacting. The bank official requests his driver's license (for identity) and a recent electricity bill (for address verification). The bank also asks John to fill out a form detailing his profession as a software engineer and his expected monthly salary deposits. This information allows the bank to complete the KYC process, establishing a profile for John. If John's account suddenly receives massive, unexplained international wire transfers a few months later, the bank's monitoring systems will flag this activity as suspicious because it does not align with his established KYC profile.
+
+Key Concepts:
+- Anti-Money Laundering (AML): A set of laws, regulations, and procedures intended to prevent criminals from disguising illegally obtained funds as legitimate income. KYC is a crucial component of AML.
+- Customer Due Diligence (CDD): The specific acts taken by a financial institution to assess the risk of a new client and verify their identity, which forms the core of the KYC process.
+- Politically Exposed Person (PEP): An individual who is or has been entrusted with a prominent public function. Due to their position, PEPs present a higher risk for potential involvement in bribery and corruption, requiring stricter KYC scrutiny.

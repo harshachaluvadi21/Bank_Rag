@@ -1,0 +1,26 @@
+Understanding Equated Monthly Installment (EMI)
+
+An Equated Monthly Installment (EMI) is a fixed payment amount made by a borrower to a lender at a specified date each calendar month. EMIs are used to systematically pay off both the principal and interest of a loan over a predetermined number of years (the loan tenure). They are the standard method for repaying term loans, such as home loans, personal loans, education loans, and vehicle loans, ensuring that by the end of the loan period, the debt is fully cleared.
+
+Key Features of an EMI:
+1. Two Components: Every single EMI payment consists of two parts: a portion that goes toward paying off the principal amount borrowed, and a portion that covers the interest charged by the lender on the outstanding balance.
+2. Fixed Monthly Outflow: For the duration of a fixed-rate loan, the total EMI amount remains exactly the same every month. This predictability is a crucial feature that helps borrowers budget their finances effectively.
+3. Changing Proportions: While the total EMI amount remains constant, the proportion of interest versus principal within that EMI changes over time. In the initial years, the interest component is high, and the principal component is low. In the later years, as the outstanding balance decreases, the interest component drops, and the majority of the EMI goes toward reducing the principal.
+4. Calculated via Formula: The EMI is calculated based on three specific factors: the total principal loan amount, the annual interest rate, and the loan tenure (in months). A standard mathematical formula or financial calculator is used to determine the exact figure.
+5. Impact of Prepayments: If a borrower makes an extra lump-sum payment (prepayment) toward the principal, the outstanding loan balance decreases. Consequently, the borrower can choose to either keep the EMI the same and reduce the total loan tenure or keep the tenure the same and reduce the monthly EMI amount.
+
+Benefits of the EMI System:
+- Financial Planning: The predictability of a fixed monthly payment allows individuals to plan their monthly household budgets accurately without unexpected fluctuations in their debt obligations.
+- Affordability: By breaking down a massive debt (like a home mortgage) into manageable monthly chunks over decades, EMIs make large purchases affordable for the average consumer.
+- Structured Discipline: The mandatory monthly payment schedule enforces financial discipline, ensuring that the borrower continuously makes progress toward clearing the debt.
+- Clear Timeline: Borrowers know exactly when they will be debt-free, assuming they make all payments on schedule.
+
+Example:
+John takes a personal loan of $10,000 at an annual interest rate of 12% for a tenure of 2 years (24 months). Using the EMI formula, his bank calculates his fixed monthly EMI to be approximately $470.73. 
+In Month 1, his payment of $470.73 will consist of roughly $100 in interest and $370.73 toward the principal. 
+In Month 23, almost his entire payment of $470.73 will go toward paying down the final remaining principal, with only a few dollars allocated to interest. Regardless of the internal split, John simply pays $470.73 every month.
+
+Key Concepts:
+- Amortization Schedule: A complete table of periodic loan payments showing the amount of principal and the amount of interest that comprise each payment until the loan is paid off at the end of its term.
+- Principal: The original sum of money borrowed, separate from the interest.
+- Tenor/Tenure: The total length of time given to the borrower to repay the loan entirely.

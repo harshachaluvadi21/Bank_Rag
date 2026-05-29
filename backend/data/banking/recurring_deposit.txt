@@ -1,0 +1,24 @@
+Understanding Recurring Deposits (RD)
+
+A Recurring Deposit (RD) is a specialized type of term deposit offered by banks that allows individuals to deposit a fixed amount of money at regular intervals, usually monthly, over a predetermined period. It is an ideal investment tool for individuals who want to build a substantial corpus over time through disciplined, regular savings rather than a single lump-sum investment. Like Fixed Deposits, RDs offer guaranteed returns based on an interest rate fixed at the inception of the account.
+
+Key Features of a Recurring Deposit:
+1. Regular Installments: The defining feature of an RD is the commitment to deposit a specific fixed sum every month. This amount is decided at the time of opening the account and cannot be changed during the tenure.
+2. Fixed Tenure: RDs have a predefined tenure, typically ranging from 6 months to 10 years. The tenure is chosen by the account holder based on their financial goals.
+3. Interest Rates: The interest rates offered on RDs are generally comparable to those of Fixed Deposits and are significantly higher than regular savings account rates. The rate remains constant throughout the tenure.
+4. Compounding Benefit: Interest on an RD is usually compounded quarterly. This means you earn interest not just on your principal deposits but also on the accumulated interest, helping your wealth grow faster over time.
+5. Penalty for Missed Payments: If an account holder fails to deposit the monthly installment, banks may charge a penalty fee or reduce the overall interest earned. Repeated missed payments might lead to the closure of the account.
+
+Benefits of a Recurring Deposit:
+- Inculcates Saving Discipline: By requiring regular, mandatory monthly deposits, an RD enforces financial discipline, making it an excellent tool for systematic saving.
+- Goal-Oriented Wealth Creation: It is perfectly suited for achieving specific future goals, such as saving for a car down payment, a vacation, or annual school fees, by breaking down a large target into manageable monthly chunks.
+- Accessibility for Small Savers: RDs have very low minimum deposit requirements (often as low as a few dollars or hundred rupees), making high-interest savings accessible to individuals with limited monthly surplus income.
+- Low Risk: Like FDs, Recurring Deposits are secure, risk-free investments unaffected by market volatility, ensuring the safety of the principal and guaranteed returns.
+
+Example:
+Emily is a young professional who wants to save $3,600 for a trip she plans to take in exactly one year. Instead of hoping to have the full amount at the end of the year, she opens a 12-month Recurring Deposit account. She commits to depositing $300 from her salary every month. The bank offers an interest rate of 5.5% per annum. At the end of the 12 months, Emily will not only have her principal amount of $3,600 but also the accumulated interest, securely funding her vacation through disciplined monthly savings.
+
+Key Concepts:
+- Standing Instruction: Most RD holders set up a standing instruction (auto-debit) from their savings account to ensure the monthly installment is paid automatically on a specific date.
+- Maturity Value: The total amount payable to the investor at the end of the RD tenure, comprising the sum of all monthly deposits and the compounded interest earned.
+- Premature Closure: While possible, closing an RD before its maturity date usually incurs a penalty in the form of a reduced interest rate applied to the period the deposit was actually held.

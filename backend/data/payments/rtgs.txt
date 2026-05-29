@@ -1,0 +1,24 @@
+Understanding Real Time Gross Settlement (RTGS)
+
+Real Time Gross Settlement (RTGS) is a premier electronic fund transfer system primarily designed for high-value transactions that require immediate clearing. Maintained and operated by a country's central bank (such as the Reserve Bank of India), RTGS ensures that money moves from one bank to another on a "real-time" and "gross" basis. It is the fastest possible way to transfer money through the standard banking channel, heavily utilized by corporations, financial institutions, and individuals dealing with large sums.
+
+Key Features of RTGS:
+1. Real-Time Processing: The term "real-time" means that instructions are processed immediately upon receipt, without any delay. There is no waiting for batches to clear. The funds are instantly debited from the sender's account and credited to the receiver's account.
+2. Gross Settlement: The term "gross settlement" signifies that transactions are settled individually, one by one, without netting them against any other transactions. This ensures absolute finality of the payment at the moment it is processed.
+3. High Minimum Threshold: RTGS is exclusively meant for large transactions. Therefore, there is usually a strict minimum limit mandated for its use. In India, for example, the minimum amount to be remitted through RTGS is ₹200,000. There is generally no maximum limit.
+4. Legal Finality: Because the settlement takes place in the central bank's books, RTGS payments are final and irrevocable. Once the money is sent, it cannot be pulled back, significantly reducing settlement risk.
+5. Information Requirements: Similar to NEFT, initiating an RTGS transfer requires precise information, including the beneficiary's name, bank account number, and the specific IFSC (Indian Financial System Code) of the receiving branch.
+
+Benefits of RTGS:
+- Immediate Liquidity: For businesses, the instantaneous nature of RTGS ensures immediate liquidity. If a supplier requires upfront payment before releasing vital inventory, RTGS guarantees the funds are available to the supplier instantly.
+- Mitigation of Risk: It eliminates settlement risk (the risk that one party will fail to deliver on the terms of a contract at the time of settlement) because the transaction is settled instantly by the central bank.
+- Crucial for Financial Markets: RTGS is the backbone of national financial markets, enabling the rapid and secure transfer of billions of dollars daily for stock market settlements, inter-bank lending, and foreign exchange trades.
+- 24/7/365 Operations: Many central banks have upgraded their RTGS systems to operate round the clock, every day of the year, providing unparalleled flexibility for high-value global and domestic trade.
+
+Example:
+A real estate developer, BuildWell Inc., is closing a major land purchase deal worth $5 million. The seller stipulates that the title deed will only be handed over once the funds are confirmed in their account. A standard check would take days to clear, and NEFT might face delays or batch processing limits. BuildWell Inc. initiates an RTGS transfer. Within seconds of the bank processing the request, the $5 million is transferred and credited to the seller's account. The seller immediately confirms receipt and hands over the title deed, successfully closing the time-sensitive transaction.
+
+Key Concepts:
+- Settlement Risk: The risk that a counterpart will default on its clearing obligations, failing to deliver funds or securities when they are due. RTGS eliminates this risk.
+- Central Bank Money: RTGS transactions are settled using central bank money, which is considered the ultimate, risk-free settlement asset.
+- Liquidity Management: The process by which banks monitor and manage their available funds at the central bank to ensure they have enough liquidity to settle all outgoing RTGS payments instantly.
