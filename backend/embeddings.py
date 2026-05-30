@@ -21,7 +21,7 @@ def get_embeddings_model():
     try:
         # Load Google embeddings model
         embeddings = GoogleGenerativeAIEmbeddings(
-            model="models/embedding-001"
+            model="models/text-embedding-004"
         )
         print("\033[92m[OK] Google Embeddings Model loaded successfully!\033[0m")
         return embeddings
