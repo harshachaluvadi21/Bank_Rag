@@ -13,6 +13,12 @@ import { Button } from "@/components/ui/button";
 
 export default function Dashboard() {
   const [latestResponse, setLatestResponse] = useState<ChatResponse | null>(null);
+  const [chatSessionId, setChatSessionId] = useState(1);
+
+  const handleClearChat = () => {
+    setChatSessionId(prev => prev + 1);
+    setLatestResponse(null);
+  };
 
   return (
     <div className="h-screen bg-background flex flex-col overflow-hidden">
@@ -32,7 +38,11 @@ export default function Dashboard() {
         
         {/* Left Sidebar - Conversations & Status */}
         <div className="w-64 p-4 border-r border-white/5 hidden lg:flex flex-col gap-4 bg-secondary/5">
-          <Button variant="outline" className="w-full justify-start border-primary/20 hover:bg-primary/10 text-primary">
+          <Button 
+            variant="outline" 
+            className="w-full justify-start border-primary/20 hover:bg-primary/10 text-primary"
+            onClick={handleClearChat}
+          >
             <Plus className="w-4 h-4 mr-2" /> New Chat
           </Button>
           
@@ -49,7 +59,11 @@ export default function Dashboard() {
             </div>
           </div>
 
-          <Button variant="ghost" className="w-full justify-start text-red-400 hover:text-red-300 hover:bg-red-950/30">
+          <Button 
+            variant="ghost" 
+            className="w-full justify-start text-red-400 hover:text-red-300 hover:bg-red-950/30"
+            onClick={handleClearChat}
+          >
             <Trash2 className="w-4 h-4 mr-2" /> Clear Chat
           </Button>
 
@@ -63,7 +77,7 @@ export default function Dashboard() {
             animate={{ opacity: 1, scale: 1 }} 
             className="h-full w-full max-w-4xl mx-auto"
           >
-            <ChatWindow onUpdateAnalytics={setLatestResponse} />
+            <ChatWindow key={chatSessionId} onUpdateAnalytics={setLatestResponse} />
           </motion.div>
         </div>
 
